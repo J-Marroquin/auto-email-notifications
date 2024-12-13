@@ -92,7 +92,6 @@ class Program:
         de reporte adjunto, el asunto generado con el ratio y la flecha correspondiente.
         
         Parameters:
-            to (str): Dirección de correo electrónico del destinatario.
             subject (str): Asunto del correo, incluye el ratio y la flecha (↑/↓).
             ratio (float): El ratio de variación de los cobros.
             path (str): Ruta del archivo del reporte que se va a adjuntar.
