@@ -1,0 +1,16 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+matplotlib = ">=3.9.3"
+pandas = ">=2.2.3"
+psycopg2 = ">=2.9.10"
+pyinstaller = ">=6.11.1"
+pywin32 = ">=308"
+
+[dev-packages]
+
+[requires]
+python_version = "3.12"
